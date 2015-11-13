@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Clean Architecture Android</string>
+    <string name="title_login_activity">Authenticate</string>
+    <string name="title_sign_up_activity">Sign Up</string>
+    <string name="message_unknown_error">Unknown error</string>
+    <string name="action_retry">Retry</string>
+</resources>
